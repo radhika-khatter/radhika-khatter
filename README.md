@@ -21,18 +21,10 @@
 ---
 
 ## 🔥 My Work  
-🎨 **[QuickSign](https://github.com/radhika-khatter/QuickSign)** → A JavaScript-based drawing tool  
+🎨 **[QuickSign](https://quick-sign-tau.vercel.app/)** → A JavaScript-based drawing tool  
 📰 **[NewsApp](https://github.com/radhika-khatter/NewsApp)** → React app fetching live news  
 📜 **[BookEase](https://github.com/radhika-khatter/BookEase)** → booking tickets app using MERN 
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radhikakhatter&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikakhatter&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
